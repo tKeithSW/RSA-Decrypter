@@ -1,0 +1,13 @@
+{   "name":"",
+    "alice":{
+       "modulus":"",
+       "publicKey":""
+    
+ },
+    "bob":{
+       "modulus":"",
+       "publicKey":""
+    
+ },
+    "cipherText":""
+ }
